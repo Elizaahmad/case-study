@@ -1,0 +1,45 @@
+#CaseStudy{
+    width: 200px;
+    background-color: gold;
+}
+.footer{
+    width:100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    background-color: linear-gradient( #a533f1, #c219a8, #d153c0, #dd82b4, #e91515);
+    color:white;
+}
+.List_of_objects{
+  
+    padding: 30px;
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px grey;
+}
+li img{
+width: 200px;
+border-radius:20px ;
+}
+#List_of_objects_1{
+    background-color: rgb(12, 241, 0);
+}
+#List_of_objects_2{
+    background-color: rgb(172, 71, 206);
+}
+#List_of_objects_3{
+    background-color: rgb(9, 64, 247);
+}
+#List_of_objects_4{
+    background-color: rgb(247, 9, 92);
+}
+#List_of_objects_5{
+    background-color: rgb(223, 78, 78) 
+}
+#h3{
+    color: azure;
+}
+.image_resposive{
+width: 50px;
+height: 40px;
+}
